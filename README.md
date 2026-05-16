@@ -171,11 +171,11 @@ responses and workflow orchestration
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=Shahanbutt07&theme=tokyonight&hide_border=true" width="49%"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Shahanbutt07&theme=tokyonight&hide_border=true&show_icons=true" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shahanbutt07&theme=tokyonight&hide_border=true&show_icons=true" width="49%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Shahanbutt07&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahanbutt07&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" width="50%"/>
 </div>
 
 ---
@@ -192,10 +192,10 @@ responses and workflow orchestration
 
 <div align="center">
 
-[![ai-chatbot](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Shahanbutt07&repo=ai-chatbot&theme=tokyonight&hide_border=true)](https://github.com/Shahanbutt07/ai-chatbot)
-[![Attendance-system-fyp](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Shahanbutt07&repo=Attendance-system-fyp&theme=tokyonight&hide_border=true)](https://github.com/Shahanbutt07/Attendance-system-fyp)
-[![hygiene-compliance-detection](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Shahanbutt07&repo=hygiene-compliance-detection&theme=tokyonight&hide_border=true)](https://github.com/Shahanbutt07/hygiene-compliance-detection)
-[![credit-card-fraud-detection](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Shahanbutt07&repo=credit-card-fraud-detection&theme=tokyonight&hide_border=true)](https://github.com/Shahanbutt07/credit-card-fraud-detection)
+[![ai-chatbot](https://github-readme-stats.vercel.app/api/pin/?username=Shahanbutt07&repo=ai-chatbot&theme=tokyonight&hide_border=true)](https://github.com/Shahanbutt07/ai-chatbot)
+[![Attendance-system-fyp](https://github-readme-stats.vercel.app/api/pin/?username=Shahanbutt07&repo=Attendance-system-fyp&theme=tokyonight&hide_border=true)](https://github.com/Shahanbutt07/Attendance-system-fyp)
+[![hygiene-compliance-detection](https://github-readme-stats.vercel.app/api/pin/?username=Shahanbutt07&repo=hygiene-compliance-detection&theme=tokyonight&hide_border=true)](https://github.com/Shahanbutt07/hygiene-compliance-detection)
+[![credit-card-fraud-detection](https://github-readme-stats.vercel.app/api/pin/?username=Shahanbutt07&repo=credit-card-fraud-detection&theme=tokyonight&hide_border=true)](https://github.com/Shahanbutt07/credit-card-fraud-detection)
 
 </div>
 
