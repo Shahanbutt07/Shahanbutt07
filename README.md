@@ -88,6 +88,8 @@ me.fun_fact()
 <td width="50%">
 
 ### 🎯 AI Attendance System — FYP
+<img src="AI-Based-Attendance-System-scaled.jpeg" width="100%" alt="AI Attendance System"/>
+
 Real-time face recognition for **50+ students**
 at **96% accuracy**, deployed on **AWS EC2 with GPU**
 `YOLOv8` `DeepFace` `Deep Learning` `AWS EC2`
@@ -96,6 +98,8 @@ at **96% accuracy**, deployed on **AWS EC2 with GPU**
 <td width="50%">
 
 ### 🤖 RAG Chatbot — Live Client
+<img src="ai_chatbot.png" width="100%" alt="RAG Chatbot"/>
+
 LLM chatbot with persistent memory, document Q&A
 & persona switching — **shipped to a real paying client**
 `LangChain` `Groq` `LLaMA 3.3` `FAISS` `Streamlit`
@@ -106,6 +110,8 @@ LLM chatbot with persistent memory, document Q&A
 <td width="50%">
 
 ### ⚙️ WhatsApp CRM + AI Platform
+<img src="m_links_project.png" width="100%" alt="M-Links AI Platform"/>
+
 Full-stack AI platform with chatbot, smart search
 & WhatsApp CRM serving **6 DHA cities** via REST APIs
 `n8n` `FastAPI` `LLMs` `REST APIs`
@@ -113,10 +119,12 @@ Full-stack AI platform with chatbot, smart search
 </td>
 <td width="50%">
 
-### 👁️ Hygiene Compliance Monitor
-Real-time workplace CV detection at **94% accuracy**
-with a live Streamlit interface
-`YOLOv8` `OpenCV` `Streamlit`
+### 📧 AI Email Automation
+<img src="ai_email_automation.png" width="100%" alt="AI Email Automation"/>
+
+Intelligent email automation pipeline with AI-driven
+responses and workflow orchestration
+`n8n` `LLMs` `FastAPI` `Automation`
 
 </td>
 </tr>
