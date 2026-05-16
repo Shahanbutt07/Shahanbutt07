@@ -1,17 +1,8 @@
 <div align="center">
-
-```
-███╗   ███╗   ██████╗   ██╗  ██╗   █████╗   ██╗  ██╗   █████╗   ███╗   ██╗
-████╗ ████║  ██╔════╝   ██║  ██║  ██╔══██╗  ██║  ██║  ██╔══██╗  ████╗  ██║
-██╔████╔██║  ╚█████╗    ██████║   ███████║  ███████║  ███████║  ██╔██╗ ██║
-██║╚██╔╝██║   ╚═══██╗   ██╔══██║  ██╔══██║  ██╔══██║  ██╔══██║  ██║╚██╗██║
-██║ ╚═╝ ██║  ██████╔╝   ██║  ██║  ██║  ██║  ██║  ██║  ██║  ██║  ██║ ╚████║
-╚═╝     ╚═╝  ╚═════╝    ╚═╝  ╚═╝  ╚═╝  ╚═╝  ╚═╝  ╚═╝  ╚═╝  ╚═╝  ╚═╝  ╚═══╝
-```
-
-### `AI Engineer · Python Developer · LLMs & Computer Vision`
-
+  <img src="banner.svg" width="100%"/>
 </div>
+
+<br/>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=680&lines=AI+Engineer+%7C+Python+Developer+%F0%9F%90%8D;LLMs+%7C+RAG+Pipelines+%7C+LangChain+%F0%9F%A4%96;Computer+Vision+%7C+YOLOv8+%7C+OpenCV+%F0%9F%91%81%EF%B8%8F;Workflow+Automation+with+n8n+%E2%9A%99%EF%B8%8F;Shipped+AI+to+real+users+in+production+%F0%9F%9A%80" alt="Typing SVG" />
