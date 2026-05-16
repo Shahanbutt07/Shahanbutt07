@@ -208,5 +208,5 @@ with a live Streamlit interface
 ---
 
 <div align="center">
-  <sub>Built with ❤️ by <a href="https://shahanbutt07.github.io/portfolio.me/">M. Shahan Butt</a></sub>
+  <sub>Built by <a href="https://shahanbutt07.github.io/portfolio.me/">M. Shahan Butt</a></sub>
 </div>
