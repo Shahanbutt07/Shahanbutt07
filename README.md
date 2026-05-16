@@ -1,5 +1,16 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=M.%20Shahan%20Butt&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20Python%20Developer%20%7C%20LLMs%20%26%20Computer%20Vision&descAlignY=58&descSize=17" width="100%"/>
+
+```
+███╗   ███╗   ██████╗   ██╗  ██╗   █████╗   ██╗  ██╗   █████╗   ███╗   ██╗
+████╗ ████║  ██╔════╝   ██║  ██║  ██╔══██╗  ██║  ██║  ██╔══██╗  ████╗  ██║
+██╔████╔██║  ╚█████╗    ██████║   ███████║  ███████║  ███████║  ██╔██╗ ██║
+██║╚██╔╝██║   ╚═══██╗   ██╔══██║  ██╔══██║  ██╔══██║  ██╔══██║  ██║╚██╗██║
+██║ ╚═╝ ██║  ██████╔╝   ██║  ██║  ██║  ██║  ██║  ██║  ██║  ██║  ██║ ╚████║
+╚═╝     ╚═╝  ╚═════╝    ╚═╝  ╚═╝  ╚═╝  ╚═╝  ╚═╝  ╚═╝  ╚═╝  ╚═╝  ╚═╝  ╚═══╝
+```
+
+### `AI Engineer · Python Developer · LLMs & Computer Vision`
+
 </div>
 
 <div align="center">
@@ -206,5 +217,5 @@ with a live Streamlit interface
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+  <sub>Built with ❤️ by <a href="https://shahanbutt07.github.io/portfolio.me/">M. Shahan Butt</a></sub>
 </div>
