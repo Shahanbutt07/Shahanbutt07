@@ -29,7 +29,7 @@ class ShahanButt:
         self.location    = "Lahore, Pakistan 🇵🇰"
         self.education   = "BS Computer Science — UMT Lahore (CGPA: 3.35 / 4.00)"
         self.experience  = "1+ year building & deploying production AI systems"
-        self.stack       = ["LangChain", "YOLOv8", "FastAPI", "n8n", "RAG", "TensorFlow"]
+        self.stack       = ["LangChain", "LangGraph", "LangSmith", "YOLOv8", "FastAPI", "n8n", "RAG", "TensorFlow"]
         self.llms        = ["LLaMA 3.3", "Groq", "HuggingFace", "FAISS", "spaCy"]
         self.also_did    = "Teaching Assistant — AI & Data Structures @ UMT"
         self.languages   = ["English (Professional)", "Urdu (Native)", "Turkish"]
@@ -135,6 +135,8 @@ with a live Streamlit interface
 
 ### 🧠 LLMs & NLP
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-FF6F00?style=for-the-badge&logo=langchain&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-FFD21E?style=for-the-badge)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
