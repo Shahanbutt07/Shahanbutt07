@@ -1,0 +1,40 @@
+<svg width="1200" height="200" viewBox="0 0 1200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="50%" style="stop-color:#0d2137"/>
+      <stop offset="100%" style="stop-color:#0d1117"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00D9FF;stop-opacity:0"/>
+      <stop offset="30%" style="stop-color:#00D9FF;stop-opacity:1"/>
+      <stop offset="70%" style="stop-color:#00D9FF;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#00D9FF;stop-opacity:0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="200" fill="url(#bg)"/>
+
+  <!-- Subtle grid lines -->
+  <line x1="0" y1="100" x2="1200" y2="100" stroke="#ffffff08" stroke-width="1"/>
+  <line x1="600" y1="0" x2="600" y2="200" stroke="#ffffff08" stroke-width="1"/>
+
+  <!-- Glow circle behind text -->
+  <ellipse cx="600" cy="100" rx="340" ry="90" fill="#00D9FF" opacity="0.04"/>
+
+  <!-- Name -->
+  <text x="600" y="105" font-family="'Segoe UI', Arial, sans-serif" font-size="72" font-weight="800"
+        fill="white" text-anchor="middle" dominant-baseline="middle" letter-spacing="-1">
+    M. Shahan Butt
+  </text>
+
+  <!-- Subtitle -->
+  <text x="600" y="155" font-family="'Segoe UI', Arial, sans-serif" font-size="20" font-weight="400"
+        fill="#00D9FF" text-anchor="middle" dominant-baseline="middle" letter-spacing="2">
+    AI Engineer · Python Developer · LLMs &amp; Computer Vision
+  </text>
+
+  <!-- Bottom accent line -->
+  <rect x="200" y="188" width="800" height="2" fill="url(#line)" rx="1"/>
+</svg>
