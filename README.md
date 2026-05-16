@@ -170,12 +170,7 @@ responses and workflow orchestration
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Shahanbutt07&theme=tokyonight&hide_border=true" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Shahanbutt07&theme=tokyonight&hide_border=true&show_icons=true" width="49%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahanbutt07&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" width="50%"/>
+  <img src="github-stats.svg" width="100%" alt="GitHub Stats"/>
 </div>
 
 ---
@@ -190,14 +185,44 @@ responses and workflow orchestration
 
 ## 📌 Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" align="center">
 
-[![ai-chatbot](https://github-readme-stats.vercel.app/api/pin/?username=Shahanbutt07&repo=ai-chatbot&theme=tokyonight&hide_border=true)](https://github.com/Shahanbutt07/ai-chatbot)
-[![Attendance-system-fyp](https://github-readme-stats.vercel.app/api/pin/?username=Shahanbutt07&repo=Attendance-system-fyp&theme=tokyonight&hide_border=true)](https://github.com/Shahanbutt07/Attendance-system-fyp)
-[![hygiene-compliance-detection](https://github-readme-stats.vercel.app/api/pin/?username=Shahanbutt07&repo=hygiene-compliance-detection&theme=tokyonight&hide_border=true)](https://github.com/Shahanbutt07/hygiene-compliance-detection)
-[![credit-card-fraud-detection](https://github-readme-stats.vercel.app/api/pin/?username=Shahanbutt07&repo=credit-card-fraud-detection&theme=tokyonight&hide_border=true)](https://github.com/Shahanbutt07/credit-card-fraud-detection)
+**🤖 ai-chatbot**
+<a href="https://github.com/Shahanbutt07/ai-chatbot">
+  <img src="ai_chatbot.png" width="100%" alt="AI Chatbot"/>
+</a>
 
-</div>
+</td>
+<td width="50%" align="center">
+
+**🎯 Attendance-system-fyp**
+<a href="https://github.com/Shahanbutt07/Attendance-system-fyp">
+  <img src="AI-Based-Attendance-System-scaled.jpeg" width="100%" alt="Attendance System FYP"/>
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+**⚙️ WhatsApp CRM + AI Platform**
+<a href="https://github.com/Shahanbutt07/Shahanbutt07">
+  <img src="m_links_project.png" width="100%" alt="M-Links Project"/>
+</a>
+
+</td>
+<td width="50%" align="center">
+
+**📧 AI Email Automation**
+<a href="https://github.com/Shahanbutt07/Shahanbutt07">
+  <img src="ai_email_automation.png" width="100%" alt="AI Email Automation"/>
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
