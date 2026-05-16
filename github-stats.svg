@@ -1,0 +1,55 @@
+<svg width="860" height="195" viewBox="0 0 860 195" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .title { font-family: 'Segoe UI', Ubuntu, sans-serif; font-size: 13px; font-weight: 700; fill: #70a5fd; }
+      .label { font-family: 'Segoe UI', Ubuntu, sans-serif; font-size: 12px; fill: #a9b1d6; }
+      .value { font-family: 'Segoe UI', Ubuntu, sans-serif; font-size: 13px; font-weight: 700; fill: #cdd6f4; }
+    </style>
+  </defs>
+
+  <!-- LEFT CARD: GitHub Stats -->
+  <rect x="0" y="0" width="415" height="195" rx="10" fill="#1a1b27"/>
+  <rect x="0" y="0" width="415" height="195" rx="10" fill="none" stroke="#414868" stroke-width="1"/>
+  <text x="20" y="30" class="title">📊 Shahan Butt's GitHub Stats</text>
+  <text x="20" y="65" class="label">⭐  Total Stars Earned:</text>
+  <text x="240" y="65" class="value">3</text>
+  <text x="20" y="92" class="label">🔨  Total Commits (2024):</text>
+  <text x="240" y="92" class="value">101</text>
+  <text x="20" y="119" class="label">🔀  Total PRs:</text>
+  <text x="240" y="119" class="value">1</text>
+  <text x="20" y="146" class="label">🐛  Total Issues:</text>
+  <text x="240" y="146" class="value">0</text>
+  <text x="20" y="173" class="label">📦  Contributed to (last year):</text>
+  <text x="240" y="173" class="value">2 repos</text>
+  <!-- Rank circle -->
+  <circle cx="355" cy="105" r="42" fill="none" stroke="#414868" stroke-width="5"/>
+  <circle cx="355" cy="105" r="42" fill="none" stroke="#bf91f3" stroke-width="5"
+    stroke-dasharray="185 79" stroke-dashoffset="25" transform="rotate(-90 355 105)"/>
+  <text x="355" y="101" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="20" font-weight="700" fill="#cdd6f4">B+</text>
+  <text x="355" y="119" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="10" fill="#a9b1d6">Rank</text>
+
+  <!-- RIGHT CARD: Top Languages -->
+  <rect x="445" y="0" width="415" height="195" rx="10" fill="#1a1b27"/>
+  <rect x="445" y="0" width="415" height="195" rx="10" fill="none" stroke="#414868" stroke-width="1"/>
+  <text x="465" y="30" class="title">🌐 Most Used Languages</text>
+  <!-- Python -->
+  <text x="465" y="58" class="label">Python</text>
+  <text x="825" y="58" text-anchor="end" class="value">68.4%</text>
+  <rect x="465" y="63" width="340" height="9" rx="4" fill="#2a2b3d"/>
+  <rect x="465" y="63" width="232" height="9" rx="4" fill="#3670A0"/>
+  <!-- Jupyter -->
+  <text x="465" y="94" class="label">Jupyter Notebook</text>
+  <text x="825" y="94" text-anchor="end" class="value">18.2%</text>
+  <rect x="465" y="99" width="340" height="9" rx="4" fill="#2a2b3d"/>
+  <rect x="465" y="99" width="62" height="9" rx="4" fill="#FA0F00"/>
+  <!-- HTML -->
+  <text x="465" y="130" class="label">HTML</text>
+  <text x="825" y="130" text-anchor="end" class="value">7.6%</text>
+  <rect x="465" y="135" width="340" height="9" rx="4" fill="#2a2b3d"/>
+  <rect x="465" y="135" width="26" height="9" rx="4" fill="#e34c26"/>
+  <!-- Shell -->
+  <text x="465" y="166" class="label">Shell / Other</text>
+  <text x="825" y="166" text-anchor="end" class="value">5.8%</text>
+  <rect x="465" y="171" width="340" height="9" rx="4" fill="#2a2b3d"/>
+  <rect x="465" y="171" width="20" height="9" rx="4" fill="#73daca"/>
+</svg>
