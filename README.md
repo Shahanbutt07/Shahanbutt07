@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=680&lines=AI+Engineer+%7C+Python+Developer+%F0%9F%90%8D;LLMs+%7C+RAG+Pipelines+%7C+LangChain+%F0%9F%A4%96;Computer+Vision+%7C+YOLOv8+%7C+OpenCV+%F0%9F%91%81%EF%B8%8F;Workflow+Automation+with+n8n+%E2%9A%99%EF%B8%8F;Shipped+AI+to+real+users+in+production+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=720&lines=AI%20Solutions%20Engineer%20%7C%20Python%20Developer%20%F0%9F%90%8D;Building%20Production%20LLM%20Systems%20%C2%B7%20RAG%20%C2%B7%20Agentic%20Workflows%20%F0%9F%A4%96;Computer%20Vision%20%7C%20YOLOv8%20%7C%20OpenCV%20%F0%9F%91%81%EF%B8%8F;Workflow%20Automation%20with%20n8n%20%E2%9A%99%EF%B8%8F;Shipped%20AI%20to%20real%20users%20in%20production%20%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -25,10 +25,11 @@
 class ShahanButt:
     def __init__(self):
         self.name        = "Muhammad Shahan Butt"
-        self.role        = "AI Engineer | Python Developer"
+        self.role        = "AI Solutions Engineer | Python Developer"
+        self.current     = "AI Solutions Engineer @ Techanzy Limited"
         self.location    = "Lahore, Pakistan 🇵🇰"
         self.education   = "BS Computer Science — UMT Lahore (CGPA: 3.35 / 4.00)"
-        self.experience  = "1+ year building & deploying production AI systems"
+        self.experience  = "2+ years building & deploying production AI systems"
         self.stack       = ["LangChain", "LangGraph", "LangSmith", "YOLOv8", "FastAPI", "n8n", "RAG", "TensorFlow"]
         self.llms        = ["LLaMA 3.3", "Groq", "HuggingFace", "FAISS", "spaCy"]
         self.also_did    = "Teaching Assistant — AI & Data Structures @ UMT"
@@ -51,7 +52,7 @@ me.fun_fact()
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://shahanbutt07.github.io/portfolio.me/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahan-butt-aiengineer/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahansqb@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shahanbutt07)
 
@@ -63,21 +64,33 @@ me.fun_fact()
 
 | | Role | Company | Period |
 |---|------|---------|--------|
+| 🚀 | AI Solutions Engineer | Techanzy Limited *(Full-time)* | Jun 2026 – Present |
+| 📊 | Data Scientist | Synent Technologies *(Part-time · Remote)* | Apr 2026 – Jun 2026 |
 | 🏙️ | AI Engineer | M-Links Real Estate *(Contract)* | Nov 2025 – Apr 2026 |
-| 💻 | AI/ML Developer | Fiverr *(Freelance, Remote)* | Nov 2025 – Jan 2026 |
+| 💻 | AI/ML Developer | Fiverr *(Freelance · Remote)* | Nov 2024 – Oct 2025 |
 | 🔬 | ML Engineer Intern | NKU Technologies | Jul 2024 – Oct 2024 |
 
+### 🚀 Techanzy Limited — AI Solutions Engineer
+<!-- TODO: replace with specific shipped features + metrics as you build them -->
+- Building **production LLM systems** — RAG pipelines, agentic workflows, and computer-vision features as part of the core AI engineering team
+- Designing scalable AI backends and integrations for client-facing products
+
+### 📊 Synent Technologies — Data Scientist *(Part-time)*
+<!-- TODO: replace with the real models / analysis / impact you delivered -->
+- Delivered remote data science work — data analysis, feature engineering, and model development to support data-driven decisions
+
 ### 🏙️ M-Links Real Estate — AI Engineer
-- Architected and deployed a **full-stack AI platform** — LLM chatbot, smart property search & WhatsApp CRM integrated via REST APIs, **serving live users across 6 DHA cities**
+- Independently designed and deployed a **full-stack real estate platform** ([mlinksrealestate.com](https://mlinksrealestate.com)) — LLM chatbot, smart property search & WhatsApp CRM integrated via REST APIs, **serving live users across 6 DHA cities**
 - Built **end-to-end n8n automation pipelines** and analysed large property datasets to surface pricing trends that directly informed business decisions
+- Owned AI, development, and business operations end-to-end
 
 ### 💻 Fiverr — AI/ML Developer *(Freelance)*
 - Delivered a **production RAG chatbot** with persistent memory & document Q&A using LangChain, Groq, FAISS & Streamlit — shipped live to a paying client
-- Built AI backend services with **FastAPI + REST APIs** integrated with relational databases for stateful conversation
+- Built AI-powered backend services with **Python + FastAPI** and REST APIs, integrated with relational databases (MariaDB) for stateful conversation
 
-### 🔬 NKU Technologies — ML Engineer Intern
-- Built **YOLOv8 real-time object detection pipelines** with OpenCV — owned full ML lifecycle: data prep, training, evaluation & deployment via FastAPI
-- Optimised CV inference APIs for **low latency in live video stream** environments
+### 🔬 NKU Technologies — ML Engineer Intern *(incl. Computer Vision Developer)*
+- Built **YOLOv8 real-time object detection pipelines** with OpenCV — owned the full ML lifecycle: data prep, training, evaluation & deployment via FastAPI
+- Optimised CV inference APIs for **low latency in live video-stream** environments
 
 ---
 
@@ -160,7 +173,9 @@ responses and workflow orchestration
 
 ### 🗄️ Databases & Tools
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -170,7 +185,8 @@ responses and workflow orchestration
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="github-stats.svg" width="100%" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shahanbutt07&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahanbutt07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </div>
 
 ---
@@ -183,46 +199,20 @@ responses and workflow orchestration
 
 ---
 
-## 📌 Featured Projects
+## 📌 Pinned Repositories
 
-<table>
-<tr>
-<td width="50%" align="center">
+<div align="center">
 
-**🤖 ai-chatbot**
-<a href="https://github.com/Shahanbutt07/ai-chatbot">
-  <img src="ai_chatbot.png" width="100%" alt="AI Chatbot"/>
-</a>
+[![ai-chatbot](https://github-readme-stats.vercel.app/api/pin/?username=Shahanbutt07&repo=ai-chatbot&theme=tokyonight&hide_border=true)](https://github.com/Shahanbutt07/ai-chatbot)
+[![Attendance-system-fyp](https://github-readme-stats.vercel.app/api/pin/?username=Shahanbutt07&repo=Attendance-system-fyp&theme=tokyonight&hide_border=true)](https://github.com/Shahanbutt07/Attendance-system-fyp)
 
-</td>
-<td width="50%" align="center">
+[![hygiene-compliance-detection](https://github-readme-stats.vercel.app/api/pin/?username=Shahanbutt07&repo=hygiene-compliance-detection&theme=tokyonight&hide_border=true)](https://github.com/Shahanbutt07/hygiene-compliance-detection)
+[![n8n-email-automation](https://github-readme-stats.vercel.app/api/pin/?username=Shahanbutt07&repo=n8n-email-automation&theme=tokyonight&hide_border=true)](https://github.com/Shahanbutt07/n8n-email-automation)
 
-**🎯 Attendance-system-fyp**
-<a href="https://github.com/Shahanbutt07/Attendance-system-fyp">
-  <img src="AI-Based-Attendance-System-scaled.jpeg" width="100%" alt="Attendance System FYP"/>
-</a>
+[![ml-data-preprocessing-pipeline](https://github-readme-stats.vercel.app/api/pin/?username=Shahanbutt07&repo=ml-data-preprocessing-pipeline&theme=tokyonight&hide_border=true)](https://github.com/Shahanbutt07/ml-data-preprocessing-pipeline)
+[![svm-prediction-app](https://github-readme-stats.vercel.app/api/pin/?username=Shahanbutt07&repo=svm-prediction-app&theme=tokyonight&hide_border=true)](https://github.com/Shahanbutt07/svm-prediction-app)
 
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-
-**⚙️ WhatsApp CRM + AI Platform**
-<a href="https://github.com/Shahanbutt07/Shahanbutt07">
-  <img src="m_links_project.png" width="100%" alt="M-Links Project"/>
-</a>
-
-</td>
-<td width="50%" align="center">
-
-**📧 AI Email Automation**
-<a href="https://github.com/Shahanbutt07/Shahanbutt07">
-  <img src="ai_email_automation.png" width="100%" alt="AI Email Automation"/>
-</a>
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
