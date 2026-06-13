@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=720&lines=AI%20Solutions%20Engineer%20%7C%20Python%20Developer%20%F0%9F%90%8D;Building%20Production%20LLM%20Systems%20%C2%B7%20RAG%20%C2%B7%20Agentic%20Workflows%20%F0%9F%A4%96;Computer%20Vision%20%7C%20YOLOv8%20%7C%20OpenCV%20%F0%9F%91%81%EF%B8%8F;Workflow%20Automation%20with%20n8n%20%E2%9A%99%EF%B8%8F;Shipped%20AI%20to%20real%20users%20in%20production%20%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=900&lines=AI%20Solutions%20Engineer%20%7C%20Python%20Developer%20%F0%9F%90%8D;Building%20Production%20LLM%20Systems%20%C2%B7%20RAG%20%C2%B7%20Agentic%20Workflows%20%F0%9F%A4%96;Computer%20Vision%20%7C%20YOLOv8%20%7C%20OpenCV%20%F0%9F%91%81%EF%B8%8F;Workflow%20Automation%20with%20n8n%20%E2%9A%99%EF%B8%8F;Shipped%20AI%20to%20real%20users%20in%20production%20%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -191,10 +191,10 @@ responses and workflow orchestration
 
 ---
 
-## 🏆 GitHub Trophies
+## 🔥 GitHub Streak
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shahanbutt07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1"/>
+  <img src="https://streak-stats.demolab.com/?user=Shahanbutt07&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
