@@ -185,7 +185,7 @@ responses and workflow orchestration
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shahanbutt07&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shahanbutt07&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahanbutt07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </div>
 
